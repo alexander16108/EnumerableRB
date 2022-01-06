@@ -1,13 +1,12 @@
-# Decode morse message
+# Enumerable 
 
-This project consist of a ruby code to decode morse messages.
+This project consist of a ruby code to create a class and learn basic ruby syntax.
 
 ## Built With
 
 - Ruby
 - rspec
-
-
+- 
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
@@ -37,7 +36,7 @@ To get a local copy up and running follow these simple example steps.
 👤 **Alexander Odufuye**
 
 - GitHub: [@Alexander](https://github.com/AlexanderMayowa)
-
+- LinkedIn: [Ngu Kingsely](https://www.linkedin.com/in/codingrex/)
 
 **GABRIEL NWACHUKWU**
 
